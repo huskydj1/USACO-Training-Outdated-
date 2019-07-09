@@ -13,7 +13,7 @@ public class dualpal {
 		Scanner in = new Scanner(new File("dualpal.in"));
 		PrintWriter out = new PrintWriter(new File("dualpal.out"));
 		
-		int n = in.nextInt();
+		int n = in.nextInt(); 
 		int s = in.nextInt()+1;
 		
 		ArrayList<Integer> result = new ArrayList<Integer>();
